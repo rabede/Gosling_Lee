@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zwei Berühmte Computerspezialisten</string>
+    <string name="gosling">James Arthur Gosling</string>
+    <string name="lee">Sir Timothy John Berners-Lee</string>
+    <string name="goslingtxt">James Gosling (* 19. Mai 1955 in Calgary, Alberta) ist einer der Urväter der objektorientierten und plattformunabhängigen Programmiersprache Java.\n\n
+        Er erfand außerdem das Fenstersystem NeWS sowie den Gosling Emacs und war einer der Entwickler des Mikrocomputers Star Seven.\n\n
+Er graduierte 1977 von der University of Calgary mit einem Bachelor of Science in Informatik und erhielt seinen Ph.D. 1983 von der Carnegie Mellon University. Der Titel seiner Dissertation ist Algebraic Constraints.\n\n
+Von 1984 bis April 2010 war James Gosling bei Sun Microsystems angestellt und besetzte ab 2005 die Position des CTO der Produktentwicklergruppe.\n\n
+Am 2. April 2010 hat James Gosling Sun Microsystems (inzwischen von Oracle übernommen) verlassen. Er arbeitete für einige Monate bei Google, um dann bei einem kleinen kalifornischen Unternehmen als Chief Software Architect zu arbeiten.\n\n
+2007 wurde Gosling zum Officer of the Order of Canada ernannt. Dies stellt die zweite Stufe der höchsten Auszeichnung dar, die ein Zivilist in Kanada erhalten kann.</string>
+    <string name="leetxt">Sir Timothy John Berners-Lee, OM, KBE, FRS, FRSA (* 8. Juni 1955 in London) ist ein britischer Physiker und Informatiker. \n\nEr ist der Erfinder der HTML (Hypertext Markup Language) und der Begründer des World Wide Web. Heute steht er dem World Wide Web Consortium (W3C) vor, ist Professor am Massachusetts Institute of Technology (MIT) und hat seit 2004 einen Lehrstuhl an der Universität Southampton inne.</string>
+
+</resources>

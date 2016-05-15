@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textViewLeeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="8dp"
+        android:text="@string/lee"
+        android:textSize="26sp" />
+
+    <ImageView
+        android:id="@+id/imageViewLee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewLeeTitle"
+        android:layout_margin="8dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/lee"
+        android:scaleType="fitXY"
+        android:src="@drawable/timbernerslee" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textViewLeeTitle"
+        android:layout_margin="8dp"
+        android:layout_toRightOf="@id/imageViewLee" >
+
+        <TextView
+            android:id="@+id/textViewLee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/leetxt"
+            android:textSize="22sp" />
+
+    </ScrollView>
+
+</RelativeLayout>
